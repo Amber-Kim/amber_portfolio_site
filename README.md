@@ -1,19 +1,6 @@
-# 👨‍💻 Personal Portfolio
+# Personal Portfolio
 
-### Link :link: https://m-junaid95.github.io/Personal-Portfolio-Junaid95/
-
-## Images
-
-<img src='./project_images/home.PNG' />
-<img src='./project_images/navbar.PNG' />
-<img src='./project_images/services.PNG' />
-<img src='./project_images/portfolio.PNG' />
-<img src='./project_images/testimonials.PNG' />
-<img src='./project_images/contact.png' />
-
-## Mobile Responsive
-
-<img src='./project_images/mobile.PNG' />
+### Link :link: https://github.com/Amber-Kim
 
 ## Tech Stack
 

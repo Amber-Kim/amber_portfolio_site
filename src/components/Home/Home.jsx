@@ -36,7 +36,7 @@ const Home = () => {
         animate="animate"
       >
         <h1>Hi!<br />I’m Jeong eun Kim</h1>
-        <p>I am a Junior Full Stack Developer :) </p>
+        <p>I am a Junior Web Developer :) </p>
         <Link
           className="home-btn"
           to={"portfolio"}
