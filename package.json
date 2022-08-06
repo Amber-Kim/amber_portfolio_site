@@ -1,6 +1,6 @@
 {
   "name": "Jeongeun-Portfolio",
-  "homepage": "http://localhost:3000/Jeongeun-Portfolio",
+  "homepage": "https://jeongeun-kim.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
