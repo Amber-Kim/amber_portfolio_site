@@ -26,11 +26,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "hompage": "https://jeongeun-kim.netlify.app//"
+  "hompage": "https://jeongeun-kim.netlify.app//",
   "eslintConfig": {
     "extends": "react-app"
   },
