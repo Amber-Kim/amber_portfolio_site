@@ -43,7 +43,7 @@ const PortfolioData = [
   
   {
     id: 5,
-    title: "Google-Map-app-project",
+    title: "Google Map project",
     tagline: "Google Map, Markers, Infowindow, Filter, Geolocation, Geocoding, Directions, Travel mode, with the API provided by Hamilton City Hall.",
     liveUrl: "https://blissful-davinci-3d502a.netlify.app/",
     repositoryUrl: "https://github.com/Amber-Kim/Google-Map-app-project",
