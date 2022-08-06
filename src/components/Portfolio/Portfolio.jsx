@@ -1,5 +1,3 @@
-import React, { useEffect, useState } from "react";
-
 // Styles
 import "./portfolio.css";
 
@@ -33,7 +31,7 @@ const Portfolio = ({ projects }) => {
               </div>
               <div className="right">
                 {item.repositoryUrl !== "private" ? (
-                  <a href={item.repositoryUrl} target="_blank">
+                  <a href={item.repositoryUrl}>
                     <FontAwesomeIcon
                       icon={faGithubSquare}
                       size="2x"
