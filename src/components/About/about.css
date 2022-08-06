@@ -1,0 +1,48 @@
+.about-cards {
+  box-shadow: 0px 1px 6px gray;
+  width: 100%;
+  padding: 0 3rem;
+  padding-top: 1.2rem;
+  padding-bottom: 0.9rem;
+  text-align: center;
+  margin: 1.5rem 0;
+  transition: all 0.3s ease;
+  border-radius: 3rem;
+}
+
+.about-cards .tags {
+  display: grid;
+  grid-gap: 3rem 8rem;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  padding: 0 2rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.5rem;
+  width: 100%;
+  margin-top: 1.2rem;
+}
+
+.about-cards img {
+  padding-right: 0.6rem;
+  width: 50px;
+}
+
+.about-cards .info a {
+  text-decoration-line: none;
+  text-decoration: none;
+  color: #5d5f66;
+
+}
+
+.about-cards .tags p {
+  display: inline-block;
+  font-size: 1.2rem;
+  color: #5d5f66;
+  padding: 0.25rem 0.75rem;
+  border-radius: 10px;
+  margin-right: 0.5rem;
+  margin-bottom: 0.3rem;
+  background-color: #eceeef;
+  font-weight: 800;
+  letter-spacing: 0.7px;
+}
