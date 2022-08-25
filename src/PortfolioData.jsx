@@ -10,8 +10,8 @@ const PortfolioData = [
     id: 3,
     title: "Reddit Clone Deploy project",
     tagline: "Full-stack website using NextJS, Typescript, Express JS, and Postgresql",
-    liveUrl: "https://github.com/Amber-Kim/reddit-clone-deploy",
-    repositoryUrl: "http://ec2-18-116-49-47.us-east-2.compute.amazonaws.com/",
+    liveUrl: "http://ec2-18-116-49-47.us-east-2.compute.amazonaws.com/",
+    repositoryUrl: "https://github.com/Amber-Kim/reddit-clone-deploy",
     image: proj3,
   },
 
@@ -19,8 +19,8 @@ const PortfolioData = [
     id: 4,
     title: "Amber's Portfolio Site",
     tagline: "Information about my experience, education, and technical skills",
-    liveUrl: "https://github.com/Amber-Kim/amber_portfolio_site",
-    repositoryUrl: "https://jeongeun-kim.netlify.app/",
+    liveUrl: "https://jeongeun-kim.netlify.app/",
+    repositoryUrl: "https://github.com/Amber-Kim/amber_portfolio_site",
     image: proj4,
   },
   
