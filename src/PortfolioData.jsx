@@ -1,5 +1,3 @@
-import proj1 from "images/fyp.png";
-import proj2 from "images/netflix.PNG";
 import proj3 from "images/reddit.png";
 import proj4 from "images/portfolio.png";
 import proj5 from "images/googleMap.png";
