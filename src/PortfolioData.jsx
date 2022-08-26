@@ -1,3 +1,4 @@
+import proj2 from "images/telegram.png";
 import proj3 from "images/reddit.png";
 import proj4 from "images/portfolio.png";
 import proj5 from "images/googleMap.png";
@@ -5,6 +6,15 @@ import proj6 from "images/vet.png";
 
 
 const PortfolioData = [
+
+  {
+    id: 2,
+    title: "Telegram Automatic Message Crawling",
+    tagline: "Create Web, Telegram_bot, and REST APIs with Crawling",
+    liveUrl: "http://35.183.68.251:8000/",
+    repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
+    image: proj2,
+  },
 
   {
     id: 3,

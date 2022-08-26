@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-### Link :link: https://github.com/Amber-Kim
+### Link :link: https://jeongeun-kim.netlify.app/#portfolio
 
 ## Tech Stack
 
