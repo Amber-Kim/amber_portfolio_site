@@ -11,7 +11,7 @@ const PortfolioData = [
     id: 2,
     title: "Telegram Crawling Message",
     tagline: "Create Web, Telegram_bot, and REST APIs with Crawling",
-    liveUrl: "http://35.183.68.251:8000/",
+    liveUrl: "http://99.79.75.233:8000/",
     repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
     image: proj2,
   },
