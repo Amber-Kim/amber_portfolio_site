@@ -12,10 +12,10 @@ const Services = ({ services }) => {
     <section
       data-aos="fade-right"
       className="services-container"
-      name="services"
-      id="services"
+      name="stack"
+      id="stack"
     >
-      <Heading text="Services" />
+      <Heading text="Stack" />
       <div className="services-cards">
         {services &&
           services?.map((elem , index) => (

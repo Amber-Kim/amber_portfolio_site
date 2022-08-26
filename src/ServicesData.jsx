@@ -23,10 +23,10 @@ const ServicesData = [
       "React.js",
       "MongoDB",
       "Next.js",
-      "SQL Server",
+      "Django",
       "REST APIs",
-      "Firebase",
-      "MVC"
+      "MySQL",
+      "PostgresSQL"
     ],
   },
   {
@@ -34,9 +34,8 @@ const ServicesData = [
     icon: "https://cdn.sanity.io/images/fxul9ln3/production/f407fcbd4c04d8affdf00209abe608ec708a1388-512x512.svg",
     tags: [
       "React-Admin",
-      "React.js",
-      "Node.js",
-      "Express.js",
+      "Docker",
+      "AWS (EC2, RDS, lightsail)",
       "Netlify",
     ],
   },
@@ -47,8 +46,8 @@ const ServicesData = [
     tags: [
       "Git",
       "Jira",
-      "Agile Methodology",
       "Visual Studio",
+      "Agile Methodology",
     ],
   },
 ];

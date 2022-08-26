@@ -14,8 +14,8 @@ export const Menu = ({ menuOpen, setMenuOpen }) => {
           onClick={() => setMenuOpen(false)}
         />
         <NavLink
-          text="Services"
-          path="services"
+          text="Stack"
+          path="stack"
           onClick={() => setMenuOpen(false)}
         />
         <NavLink
