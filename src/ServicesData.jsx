@@ -22,7 +22,6 @@ const ServicesData = [
       "Express.js",
       "React.js",
       "MongoDB",
-      "Next.js",
       "Django",
       "REST APIs",
       "MySQL",
