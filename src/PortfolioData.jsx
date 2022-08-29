@@ -20,7 +20,7 @@ const PortfolioData = [
   {
     id: 3,
     title: "Telegram Crawling Message",
-    tagline: "Create Web, Telegram_bot, and Django Rest Framework API with Crawling",
+    tagline: "Create Web, Telegram_bot, and Django Rest Framework API with Python Crawling",
     liveUrl: "http://99.79.75.233:8000/",
     repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
     image: proj2,
