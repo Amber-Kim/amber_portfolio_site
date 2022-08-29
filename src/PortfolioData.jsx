@@ -7,22 +7,23 @@ import proj6 from "images/vet.png";
 
 const PortfolioData = [
 
+  
   {
     id: 2,
-    title: "Telegram Crawling Message",
-    tagline: "Create Web, Telegram_bot, and REST APIs with Crawling",
-    liveUrl: "http://99.79.75.233:8000/",
-    repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
-    image: proj2,
-  },
-
-  {
-    id: 3,
     title: "Reddit Clone Deploy project",
     tagline: "Full-stack website using NextJS, Typescript, Express JS, and Postgresql",
     liveUrl: "http://ec2-3-15-32-248.us-east-2.compute.amazonaws.com/",
     repositoryUrl: "https://github.com/Amber-Kim/reddit-clone-deploy",
     image: proj3,
+  },
+
+  {
+    id: 3,
+    title: "Telegram Crawling Message",
+    tagline: "Create Web, Telegram_bot, and Django Rest Framework API with Crawling",
+    liveUrl: "http://99.79.75.233:8000/",
+    repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
+    image: proj2,
   },
 
   {
