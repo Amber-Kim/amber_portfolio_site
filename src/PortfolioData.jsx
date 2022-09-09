@@ -20,7 +20,7 @@ const PortfolioData = [
 
   {
     id: 2,
-    title: "Telegram Bot Crawling Message",
+    title: "Telegram Bot Automatic Crawling",
     tagline: "Created Web and sent message automatically through Telegram_bot by using Django Rest Framework API with beautifulsoup ps4 of Python",
     liveUrl: "http://99.79.75.233:8000/",
     repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
