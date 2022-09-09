@@ -11,8 +11,8 @@ const PortfolioData = [
   
   {
     id: 1,
-    title: "Reddit Clone Deploy project",
-    tagline: "Full-stack website using NextJS, Typescript, Express JS, and Postgresql",
+    title: "Reddit Clone and Deploy Project",
+    tagline: "Full stack website using NextJS, Typescript, Express JS, and PostgrSQL",
     liveUrl: "http://ec2-3-15-32-248.us-east-2.compute.amazonaws.com/",
     repositoryUrl: "https://github.com/Amber-Kim/reddit-clone-deploy",
     image: proj1,
@@ -20,8 +20,8 @@ const PortfolioData = [
 
   {
     id: 2,
-    title: "Telegram Crawling Message",
-    tagline: "Create Web, Telegram_bot, and Django Rest Framework API with Python Crawling",
+    title: "Telegram Bot Crawling Message",
+    tagline: "Created Web and sent message automatically by Telegram_bot by using Django Rest Framework API with beautify ps4 of Python",
     liveUrl: "http://99.79.75.233:8000/",
     repositoryUrl: "https://github.com/Amber-Kim/hotdeal_bot",
     image: proj2,
@@ -30,7 +30,7 @@ const PortfolioData = [
   {
     id: 3,
     title: "Amber's Portfolio Site",
-    tagline: "Information about my experience, education, and technical skills",
+    tagline: "Created by ReactJSX, React Framer Motion, aos library, and emailjs.",
     liveUrl: "https://jeongeun-kim.netlify.app/",
     repositoryUrl: "https://github.com/Amber-Kim/amber_portfolio_site",
     image: proj3,
@@ -38,7 +38,7 @@ const PortfolioData = [
 
   {
     id: 4,
-    title: "Nextjs - Small Blog Practice",
+    title: "NextJS - Small Blog Practice",
     tagline: "Tutorial with React, Nextjs, TypeScript, Markdown, CSS Module",
     liveUrl: "https://luminous-baklava-0b0119.netlify.app/",
     repositoryUrl: "https://github.com/Amber-Kim/nextjs_blog",
@@ -47,8 +47,8 @@ const PortfolioData = [
 
   {
     id: 5,
-    title: "Google Map project",
-    tagline: "Google Map, Markers, Infowindow, Filter, Geolocation, Geocoding, Directions, Travel mode, with the API provided by Hamilton City Hall.",
+    title: "Google Geolocation APIs",
+    tagline: "Created a mini Hamilton Map with functions that Marker, Info window, Filter, Geolocation, Geocoding, Directions, and Travel mode.",
     liveUrl: "https://blissful-davinci-3d502a.netlify.app/",
     repositoryUrl: "https://github.com/Amber-Kim/Google-Map-app-project",
     image: proj5,
