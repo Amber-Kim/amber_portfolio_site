@@ -30,7 +30,7 @@ const ServicesData = [
       "Web APIs",
       "MySQL",
       "HeidiSQL",
-      "PostgrSQL"
+      "PostgreSQL"
     ],
   },
   {
@@ -50,6 +50,7 @@ const ServicesData = [
     tags: [
       "Git",
       "Jira",
+      "Google Cloud Platform",
       "Visual Studio",
       "Agile Methodology",
     ],
