@@ -25,11 +25,12 @@ const ServicesData = [
       "Node.js",
       "Express.js",
       "MongoDB",
-      "Django",
+      "Java",
+      "Python",
       "Web APIs",
       "MySQL",
       "HeidiSQL",
-      "PostgresSQL"
+      "PostgrSQL"
     ],
   },
   {
@@ -44,7 +45,7 @@ const ServicesData = [
   },
 
   {
-    title: "Communication Tool",
+    title: "Skill & Tool",
     icon: "https://cdn.sanity.io/images/fxul9ln3/production/a13e377822ec30af9894808787bcacfae6d3d02d-128x128.png",
     tags: [
       "Git",
