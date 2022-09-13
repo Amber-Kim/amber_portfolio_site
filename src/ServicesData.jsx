@@ -9,6 +9,10 @@ const ServicesData = [
       "React.js",
       "Next.js",
       "JavaScript",
+      "TypeScript",
+      "JSON",
+      "JWT",
+      "RESTful API",
       "Material-UI",
       "Bootstrap",
       "Responsive Design"
@@ -20,11 +24,11 @@ const ServicesData = [
     tags: [
       "Node.js",
       "Express.js",
-      "React.js",
       "MongoDB",
       "Django",
-      "REST APIs",
+      "Web APIs",
       "MySQL",
+      "HeidiSQL",
       "PostgresSQL"
     ],
   },
