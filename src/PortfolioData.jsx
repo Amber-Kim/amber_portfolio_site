@@ -15,7 +15,7 @@ const PortfolioData = [
     id: 1,
     title: "Reddit Clone Deploy Project",
     tagline: "Full Stack Web Application using NextJS, Typescript, NodeJS & Express, and PostgrSQL",
-    liveUrl: "http://ec2-3-15-32-248.us-east-2.compute.amazonaws.com/",
+    liveUrl: "http://ec2-3-140-239-88.us-east-2.compute.amazonaws.com/",
     repositoryUrl: "https://github.com/Amber-Kim/reddit-clone-deploy",
     image: proj1,
   },
