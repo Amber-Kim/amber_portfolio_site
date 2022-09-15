@@ -15,7 +15,7 @@ const Services = ({ services }) => {
       name="stack"
       id="stack"
     >
-      <Heading text="Stack" />
+      <Heading text="Tech Stack" />
       <div className="services-cards">
         {services &&
           services?.map((elem , index) => (
