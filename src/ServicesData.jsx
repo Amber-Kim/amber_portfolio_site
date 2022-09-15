@@ -24,12 +24,11 @@ const ServicesData = [
     tags: [
       "Node.js",
       "Express.js",
-      "MongoDB",
       "Java",
       "Python",
       "Web APIs",
+      "PHP",
       "MySQL",
-      "HeidiSQL",
       "PostgreSQL"
     ],
   },
@@ -50,8 +49,10 @@ const ServicesData = [
     tags: [
       "Git",
       "Jira",
-      "Google Cloud Platform",
+      "HeidiSQL",
+      "IntelliJ",
       "Visual Studio",
+      "Google Cloud Platform",
       "Agile Methodology",
     ],
   },
