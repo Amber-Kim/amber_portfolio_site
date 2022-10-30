@@ -26,7 +26,7 @@ const About = () => {
         <div className="tags">
           <div className="info">
               <img src={location} alt="home-icon" />
-              <p>Hamilton, Canada</p>
+              <p>Toronto, Canada</p>
           </div>
           <div className="info">
               <img src={phone} alt="home-icon" />
