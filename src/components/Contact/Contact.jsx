@@ -1,8 +1,7 @@
-
-import "./contact.css"
+import React from "react";
+import "./contact.css";
 
 const Contact = () => {
-
   return (
     <div>
       <footer className="footer">
