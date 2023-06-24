@@ -46,7 +46,7 @@ const ServicesData = [
       "Docker",
       "AWS Services(ECS, EC2, Lambda, RDS, S3)",
       "Netlify",
-      "Git workflow",
+      "Git Workflow",
       "CI/CD Pipeline",
       "Agile Methodology",
       "Software Development Life Cycle",
