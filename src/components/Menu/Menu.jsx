@@ -23,11 +23,6 @@ export const Menu = ({ menuOpen, setMenuOpen }) => {
           path="portfolio"
           onClick={() => setMenuOpen(false)}
         />
-        <NavLink
-          text="Contact"
-          path="contact"
-          onClick={() => setMenuOpen(false)}
-        />
       </ul>
     </div>
   );
